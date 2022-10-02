@@ -9,14 +9,14 @@
 }
 
 #telaCadastro{
-    width: 1000px;
-    height: 500px;
+    width: 600px;
+    
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    box-shadow: 1px 5px 30px rgb(129, 123, 164);
-    opacity: 0.9;
+    box-shadow: 1px 5px 30px rgb(144, 141, 162);
+    opacity: 0.7;
 }
 
 #fundoLogin{
@@ -33,10 +33,3 @@
     background-size: cover;
 }
 
-#cardCadastro{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    width: 900px;
-}
